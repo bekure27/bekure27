@@ -1,4 +1,11 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsOwAjH7ARUR7LbouOSh36tc9Bw0Hd2w5h0BP_7GPh-XKVliBAmBcBRQCWjhJAivKAJA&usqp=CAU)](https://github.com/bekure27)
+
+
+<a href="https://github.com/bekure27" style="display: block; width: 100%;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsOwAjH7ARUR7LbouOSh36tc9Bw0Hd2w5h0BP_7GPh-XKVliBAmBcBRQCWjhJAivKAJA&usqp=CAU" alt="MasterHead" style="width: 100%;">
+</a>
+
+
+
 <h1 align="center">Hi 👋, I'm Bekure</h1>
 <h3 align="center">Web Developer | Full Stack MERN |</h3>
 
