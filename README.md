@@ -1,7 +1,7 @@
 
 
 <a href="https://github.com/bekure27" style="display: block; width: 100%;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsOwAjH7ARUR7LbouOSh36tc9Bw0Hd2w5h0BP_7GPh-XKVliBAmBcBRQCWjhJAivKAJA&usqp=CAU" alt="MasterHead" style="width: 100%;">
+  <img src="https://media.istockphoto.com/id/1047259374/photo/programming-source-code-abstract-background.jpg?b=1&s=612x612&w=0&k=20&c=ujRPoiaJlm5U3WDWcVVa1YVlFIt6Gcjr-RstzOEPbIU=" alt="MasterHead" style="width: 100%; height:300px;">
 </a>
 
 
