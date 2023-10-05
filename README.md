@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/18447631/pexels-photo-18447631/free-photo-of-lake-and-hills-around.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://github.com/bekure27)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsOwAjH7ARUR7LbouOSh36tc9Bw0Hd2w5h0BP_7GPh-XKVliBAmBcBRQCWjhJAivKAJA&usqp=CAU)](https://github.com/bekure27)
 <h1 align="center">Hi 👋, I'm Bekure</h1>
 <h3 align="center">Web Developer | Full Stack MERN |</h3>
 
