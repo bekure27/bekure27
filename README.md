@@ -1,5 +1,3 @@
-
-
 <a href="https://github.com/bekure27" style="display: block; width: 100%;">
   <img src="https://media.istockphoto.com/id/1047259374/photo/programming-source-code-abstract-background.jpg?b=1&s=612x612&w=0&k=20&c=ujRPoiaJlm5U3WDWcVVa1YVlFIt6Gcjr-RstzOEPbIU=" alt="MasterHead" style="width: 100%; height:300px;">
 </a>
@@ -13,7 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bekure14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bekure14" height="30" width="40" /></a>
+<a href="https://twitter.com/bekure14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bekure14" height="30" width="40" />
+</a>
+  <a href="https://linkedin.com/in/bekure14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kklll" height="30" width="40" />
+  </a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979e9e3985ee8b9b70622d2ce686fc46c4a6706ea20/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966"/>
 
