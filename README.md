@@ -8,6 +8,8 @@
 <h3 align="center">Web Developer | Full Stack MERN |</h3>
 
 - 📫 How to reach me **bekure27@gmail.com**
+-  👨‍💻 All of my projects are available at [Portfolio](https://bekure.netlify.app/)
+- 📄 Know about my experiences [kdkkdkdkdk](kdkkdkdkdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
