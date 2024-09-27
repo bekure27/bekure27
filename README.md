@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bekure27@gmail.com**
 -  👨‍💻 All of my projects are available at [Portfolio](https://bekure.netlify.app/)
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pbeXbdXR5gartSeJ1I9KLaPh8JQT7CdS/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BL8ncjQaDIxCkudf_liKKFyYDXq0OtpJ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
